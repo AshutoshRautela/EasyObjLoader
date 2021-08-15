@@ -4,5 +4,20 @@
   "description": "Webpack Obj Loader for you webgl programs",
   "main": "src/easy-obj-loader.js",
   "author": "Ashutosh Rautela",
-  "license": "MIT"
+  "license": "MIT",
+  "keywords": [
+    "obj",
+    "3d",
+    "geometry",
+    "loader",
+    "webpack"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AshutoshRautela/EasyObjLoader.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AshutoshRautela/EasyObjLoader/issues"
+  },
+  "homepage": "https://github.com/AshutoshRautela/EasyObjLoader/blob/main/README.md"
 }
