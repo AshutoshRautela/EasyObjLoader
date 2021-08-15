@@ -2,7 +2,7 @@
   "name": "easy-obj-loader",
   "version": "1.0.0",
   "description": "Webpack Obj Loader for you webgl programs",
-  "main": "easy-obj-loader.js",
+  "main": "src/easy-obj-loader.js",
   "author": "Ashutosh Rautela",
   "license": "MIT"
 }
